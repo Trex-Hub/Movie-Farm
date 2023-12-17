@@ -1,1 +1,1 @@
-This is a Suggestion/Finder App Build on React.
+This is a Movie Suggestion/Finder App Build on React.
